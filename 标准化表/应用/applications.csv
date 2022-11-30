@@ -1,0 +1,41 @@
+﻿name,abbr_name,description
+Activation,Activ,Induction of a cellular active state from a normal resting state.
+Agonist,Agonist,Use of a cell-surface targeted antibody to activate a biological response. The response can be either positive or negative depending on the function of the targeted protein.
+Apoptosis,Apop,A process of programmed cell death.
+Bioassay,BA,Use of a recombinant protein to induce a biological response.
+Blocking,Block,Use of a cell-surface targeted antibody to block a biological response.
+Cell Culture,Cell Culture,"Any reagent, protein, or solution suitable for use in cell culture."
+Cell Screening,Cell Screening,Characterization and determination of the immunophenotype of a cell population.
+Cell Separation,Separation,Separation of a defined cell population using magnetic nanoparticles either by positive or negative selection.
+Cell Separation by Negative Selection,Cell Sep – Neg,"Separation of a defined cell population using magnetic nanoparticles by negative selection, also called depletion."
+Cell Separation by Positive Selection,Cell Sep – Pos,Separation of a defined cell population using magnetic nanoparticles by positive selection.
+Chromatin Immunoprecipitation,ChIP,Use of an antibody to precipitate a protein-DNA complex in order to determine protein binding sites on DNA.
+Complement Mediated Cell Depletion,CMCD,Use of an antibody to target cells for complement-mediated cell lysis.
+Costimulation,Costim,Enhancement of a primary stimulatory signal by targeting a different molecule.
+Cytotoxicity,Cyt,Use an antibody to trigger a cytotoxic cellular response that is not apoptotic.
+Depletion,Depletion,"In vivo, refers to injection of antibody to deplete targeted cell types. In vitro, refers to addition of an antibody in culture to deplete target cells."
+Direct Enzyme-Linked Immunosorbent Assay,Direct ELISA,Antibody is conjugated to a detection enzyme to bind the plate-immobilized target antigen.
+Electron Microscopy,EM,"Transmission electron microscopy is a microscopy technique that detects the scatter of electrons through a thin specimen, providing higher resolution images than other microscopy techniques."
+Enzyme-Linked Immunosorbent Assay,ELISA,Enzyme-linked Immunosorbent Assay
+ELISPOT,ELISPOT,Enzyme-linked Immunosorbent Spot
+Functional Assay,FA,"Use of a cell-surface targeted antibody to induce, modify, or block a biological response. Can also be applied to the use of a product to measure a functional activity within a cell."
+Flow Cytometry,FC,Flow cytometric analysis of antibody surface-stained cells.
+Intracellular Staining for Flow Cytometry,ICFC,Flow cytometric analysis of intracellularly-stained cells.
+Immunocytochemistry,ICC,"Immunocytochemistry is a technique used to assess the presence of a specific protein or antigen in cells (cultured cells, cell suspensions) by use of specific antibodies, thereby allowing visualization and examination under a microscope. The readout can be colorimetric using chromogen substrate or fluorescent using fluorophore-conjugated antibodies."
+Immunofluorescence Microscopy,IF,"Microscopic examination of fluorescently-labeled cells, either grown on or spun onto slides, or tissue preparations."
+Immunohistochemistry,IHC,"Analysis of antibody-labeled tissue preparations, typically frozen or paraffin-embedded."
+3D Immunohistochemistry,3D IHC,"Immunodetection applied to formalin-fixed tissue sections of at least 300 microns in thickness, which are optically cleared by tissue clearing reagent."
+Immunohistochemistry - Frozen,IHC-F,Immunodetection applied to frozen tissues (fluorescent or chromogenic imaging)
+Immunohistochemistry - Paraffin,IHC-P,Immunodetection applied to formalin-fixed paraffin-embedded (FFPE) tissues (fluorescent or chromogenic imaging)
+Immunoprecipitation,IP,Precipitation of a target protein from solution using an antibody.
+Knockout/Knockdown target confirmation by Western Blot,KO/KD-WB,Antibody specificity validation by Western Blot using lysates derived from Knockout or Knockdown of target gene by CRISPR/Cas9 or siRNA
+Live cell imaging,Live cell imaging,Reagents that are applied to and imaged in living cells or tissue explants.
+Mass Cytometry,CyTOF®,"Single cell analysis of antigen expression using a novel elemental mass-spectrometry detection technology (Inductively Coupled Plasma Mass Spectrometer, ICP-MS) that utilizes isotope-labeled antibodies."
+Multiplex bead-based assay,Multiplex,A flow cytometry based assay in which beads with differing internal levels of fluorescence and size are used to capture specific analytes using a sandwich ELISA type quantification.
+Neutralization,Neut,Neutralization of a soluble factor by an antibody.
+Proteogenomics,PG,"Antibody oligonucleotide conjugates designed to enable the generation of transcriptomic and proteomic data simultaneously, using single cell devices such as 10x Genomics' Chromium and Illumina sequencers."
+Purification,Purification,Process designed to isolate a single type of protein from a complex mixture.
+RIA,RIA,"A very sensitive in vitro assay technique used to measure concentrations of antigens (for example, hormone levels in the blood) by use of antibodies and radioactive materials."
+Spatial Biology,SB,"Multiomic or multiplexed analysis of tissue samples in their spatial context. The readout can be sequencing-based, fluorescent, or another method to detect conjugated antibodies."
+Stimulation,Stim,"Induction of a measurable cellular response to external stimuli, such as an antibody."
+Western Blotting,WB,"Use of gel electrophoresis to separate proteins by size, followed by detection with an antibody."

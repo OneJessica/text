@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "2abbf5f3e732b1c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "81033b55db638829",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f1e02e6c8cb4f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11月/2022 1128.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "818e65c6a8ee50fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11月/2022 1129.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a517c4f756937f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c580b3b1c6dbb76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d9945aab1484e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "0e75dbae35598c2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "## 注意事项",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 158.5
+  },
+  "right": {
+    "id": "90f3549ee04899f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b3a5f8aa8945b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662797157c9dcaf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "11月/2022 1129.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "818e65c6a8ee50fe",
+  "lastOpenFiles": [
+    "11月/2022 1128.md",
+    "11月/2022 1124.md",
+    "Pasted image 20221128164122.png",
+    "11月/2022 1123.md",
+    "11月/2022 1122.md",
+    "7月/20220725.md",
+    "11月/2022 1121.md",
+    "11月/2022 1117.md",
+    "todo.md",
+    "__method__.md"
+  ]
+}
