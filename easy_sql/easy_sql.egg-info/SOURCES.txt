@@ -1,0 +1,12 @@
+setup.py
+easy_sql/WordsFind.py
+easy_sql/__init__.py
+easy_sql.egg-info/PKG-INFO
+easy_sql.egg-info/SOURCES.txt
+easy_sql.egg-info/dependency_links.txt
+easy_sql.egg-info/top_level.txt
+easy_sql/mongo/__init__.py
+easy_sql/mongo/connect.py
+easy_sql/mysql/__init__.py
+easy_sql/mysql/connect.py
+easy_sql/mysql/todb.py
